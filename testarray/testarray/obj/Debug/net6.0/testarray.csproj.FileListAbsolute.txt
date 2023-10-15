@@ -1,0 +1,14 @@
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\bin\Debug\net6.0\testarray.exe
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\bin\Debug\net6.0\testarray.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\bin\Debug\net6.0\testarray.runtimeconfig.json
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\bin\Debug\net6.0\testarray.dll
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\bin\Debug\net6.0\testarray.pdb
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\testarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\testarray.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\testarray.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\testarray.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\testarray.dll
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\refint\testarray.dll
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\testarray.pdb
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\testarray.genruntimeconfig.cache
+C:\Users\seidb\OneDrive\Masaüstü\test\testarray\testarray\obj\Debug\net6.0\ref\testarray.dll
